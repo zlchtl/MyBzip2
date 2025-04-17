@@ -20,9 +20,6 @@ vcpkg install bzip2
 Clone the repository:
 ```bash
 git clone https://github.com/zlchtl/MyBzip2.git
-```
-Navigate to the project directory:
-```bash
 cd MyBzip2
 ```
 Create and navigate to the build directory:
